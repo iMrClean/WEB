@@ -18,7 +18,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <maven.compile.version>3.6.1</maven.compile.version>
-        <postgresql.version>42.2.5</postgresql.version>
+        <postgresql.version>42.3.3</postgresql.version>
         <mapstruct.version>1.2.0.Final</mapstruct.version>
     </properties>
 
